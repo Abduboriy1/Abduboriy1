@@ -1,4 +1,5 @@
  # Welcome to my Github 🪴
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Abduboriy1&border_radius=5)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/Abduboriy1">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" />
@@ -16,9 +17,6 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Abduboriy1&show_icons=true&theme=flag-india" alt="GitHub Stats" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=Abduboriy1&theme=flag-india" alt="GitHub Streak" />
-      <br />
   </tr>
 </table>
 
