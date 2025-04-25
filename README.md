@@ -1,6 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Abduboriy1&show_icons=true&theme=flag-india" alt="GitHub Stats" />
-
- # Welcome to my Github 🪴 
+ # Welcome to my Github 🪴
 <p align="center">
   <a href="https://github.com/Abduboriy1">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" />
@@ -29,7 +27,5 @@
 
 
 ## Featured Repos 🍳 
-[![Mine Alliance](https://github-readme-stats.vercel.app/api/pin/?username=Abduboriy1&repo=Mine-Alliance&theme=flag-india)](https://github.com/Abduboriy1/Mine-Alliance) 
-[![Board Game Cafe Website](https://github-readme-stats.vercel.app/api/pin/?username=Abduboriy1&repo=Board-Game-Cafe-Website&theme=flag-india)](https://github.com/Abduboriy1/Board-Game-Cafe-Website) 
 
 
