@@ -11,3 +11,4 @@
 </div>
 
 ## Featured Repos 🍳 
+1. <a href="https://github.com/Abduboriy1/MySelf">MySelf</a> - AI Chat bot to ask questions about my Work.
